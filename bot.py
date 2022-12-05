@@ -5,7 +5,7 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardBut
 
 trans = Translator()
 
-bot = telebot.TeleBot("1315286720:AAHTd_vfQXYz2cVWNefDZN8KIbT41QhERVw")
+bot = telebot.TeleBot("1988972594:AAEu3sugTnTsbSa0uj1oqVwQ4LNGn1-9l2M")
 
 word = "Your selected language is  "
 
